@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TSIgen2_MSAL_API_Auth_Sample", "TSIgen2_MSAL_API_Auth_Sample.csproj", "{6713D40B-31B6-487C-A7F0-A72FFCB60A53}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6713D40B-31B6-487C-A7F0-A72FFCB60A53}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6713D40B-31B6-487C-A7F0-A72FFCB60A53}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6713D40B-31B6-487C-A7F0-A72FFCB60A53}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6713D40B-31B6-487C-A7F0-A72FFCB60A53}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A42B79E3-C72D-4C82-8549-1B1BCF8D630D}
+	EndGlobalSection
+EndGlobal
